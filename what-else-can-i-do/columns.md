@@ -16,7 +16,7 @@ $mPDF->SetColumns(nCols[, vAlign [, gap ]]);
 or
 
 ```html
-<columns column-count="n" vAlign="justify" column-gap="n" />;
+<columns column-count="n" vAlign="justify" column-gap="n" />
 ```
 
 Values:
